@@ -14,3 +14,4 @@ add(2, 5);
 add(5, 8);
 sub(2, 9);
 multiply(10, 20);
+multiply(40, 30);
