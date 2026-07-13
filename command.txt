@@ -8,3 +8,13 @@
 //git add <file Name> -- for adding the files in staging area
 //git commit -m "you can give some message"
 //you can see using git log commit 91923119cbb1c423c82db1a7e6b7f8287389889f
+//git remote add origin git@github.com:krvikash3/GIT.git
+//git remote -v origin  git@github.com:krvikash3/GIT.git (fetch)
+origin  git@github.com:krvikash3/GIT.git (push)
+//git remote add origin url                                                                                                                                                                                                                                                                       emote set-url origin https://github.com/krvikash3/GIT.git
+git push -u origin main
+//git remote set-url origin url link
+//Now we understand Branches concept 
+//git branch which is used to see how many branches created
+//for new braches use this command -- git checkout -b "branch Name"
+//if you want to go in prev branch use this command git checkout <branch Name>
